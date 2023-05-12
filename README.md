@@ -40,6 +40,12 @@ Done :)
 ### after:
 ![1](https://github.com/aviv926/auto-create-backgound-blur-image/assets/51673860/6a7a2def-9770-4c82-ab6f-34abf2abca11)
 
+# Problems to fix in the code:
+
+Any image size 1080 x 1440 do the following:
+The image will be adjusted to 1920 x 1080 but with 30 percent blur in the background, while the original image which is 1080 x 1440 will be without blur and in its original size without cropping or re-adjustment just as it is in the original
+
+The code does add a blur to the background, but it turns the image right side up...I couldn't figure out why
 
 # Privacy Policy:
 
